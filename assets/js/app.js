@@ -29,13 +29,13 @@ function DecideWinner(userChoice, computerChoice){
     const result = document.getElementById('result');
 
     if(userChoice === computerChoice){
-        result.innerHTML = 'Both selected ' + userChoice + '.It is a tie!';
+        result.innerHTML = 'You both chose ' + userChoice + ".it's a draw!";
     }else if(userChoice === 'rock'){
         if(computerChoice === 'scissor'){
-            result.innerHTML = 'Rock smashes the scissor. You win';
+            result.innerHTML = 'Rock smashes the scissor. You won';
             userWin++;
         }else{
-            result.innerHTML = 'Paper covers the rock. You lose';
+            result.innerHTML = 'Paper covers the rock. You lost';
             computerWin++;
         }
     }else if(userChoice === 'paper'){
