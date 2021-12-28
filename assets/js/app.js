@@ -32,7 +32,11 @@ function DecideWinner(userChoice, computerChoice) {
         result.innerHTML = "Both selected " + userChoice + "It is a tie!"
     }else if (userChoice === "rock") {
         if (computerChoice === "scissor") {
-            result.innerHTML= "rock smashes the scissor"
+            result.innerHTML= "rock smashes the scissor. You win"
+            userWin++;
+        }else{
+            result.innerHTML = "Paper covers the rock. You lose";
+            computerWin++
         }
     }
 }
