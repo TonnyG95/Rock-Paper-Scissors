@@ -40,7 +40,7 @@ function DecideWinner(userChoice, computerChoice){
         }
     }else if(userChoice === 'paper'){
         if(computerChoice === 'rock'){
-            result.innerHTML = 'Paper covers the rock. You win';
+            result.innerHTML = 'Paper covers the rock. You won';
             userWin++;
         }else{
             result.innerHTML = 'Scissor cuts paper. You lose';
@@ -48,10 +48,10 @@ function DecideWinner(userChoice, computerChoice){
         }
     }else if(userChoice === 'scissor'){
         if(computerChoice === 'paper'){
-            result.innerHTML = 'Scissor cuts the paper. You win';
+            result.innerHTML = 'Scissor cuts the paper. You won';
             userWin++;
         }else{
-            result.innerHTML = 'Rock smashes the scissor. You lose';
+            result.innerHTML = 'Rock smashes the scissor. You lost';
             computerWin++;
         }
     }
