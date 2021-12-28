@@ -1,4 +1,3 @@
-const computerChoice = document.getElementById("computer-choise")
-const userChoice = document.getElementById("user-choise")
-const resultDisplay = document.getElementById("result")
-const possibleChoices = document.querySelectorAll("button")
+const imageTags = document.querySelectorAll("img")
+let computerWin = 0;
+let userWin= 0;
