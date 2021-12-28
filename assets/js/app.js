@@ -25,22 +25,36 @@ function GetComputerChoice() {
 
 // Decide winner function
 
-function DecideWinner(userChoice, computerChoice) {
-    const result = document.getElementById("result");
+function DecideWinner(userChoice, computerChoice){
+    const result = document.getElementById('result');
 
-    if(userChoice === computerChoice) {
-        result.innerHTML = "Both selected " + userChoice + "It is a tie!"
-    }else if (userChoice === "rock") {
-        if (computerChoice === "scissor") {
-            result.innerHTML= "rock smashes the scissor. You win"
+    if(userChoice === computerChoice){
+        result.innerHTML = 'Both selected ' + userChoice + '.It is a tie!';
+    }else if(userChoice === 'rock'){
+        if(computerChoice === 'scissor'){
+            result.innerHTML = 'Rock smashes the scissor. You win';
             userWin++;
         }else{
-            result.innerHTML = "Paper covers the rock. You lose";
-            computerWin++
+            result.innerHTML = 'Paper covers the rock. You lose';
+            computerWin++;
         }
-    }else if (userChoice === "paper"){
-        if(computerChoice ==="rock") {
-            result.innerHTML ="paper covers the rock. You Win"
+    }else if(userChoice === 'paper'){
+        if(computerChoice === 'rock'){
+            result.innerHTML = 'Paper covers the rock. You win';
+            userWin++;
+        }else{
+            result.innerHTML = 'Scissor cuts paper. You lose';
+            computerWin++;
+        }
+    }else if(userChoice === 'scissor'){
+        if(computerChoice === 'paper'){
+            result.innerHTML = 'Scissor cuts the paper. You win';
+            userWin++;
+        }else{
+            result.innerHTML = 'Rock smashes the scissor. You lose';
+            computerWin++;
         }
     }
+    document.getElementById('user-stats').innerHTML = userWin.toString();
+    document.getElementById('computer-stats').innerHTML = computerWin.toString();
 }
