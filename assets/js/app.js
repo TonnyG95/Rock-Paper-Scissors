@@ -23,3 +23,16 @@ function GetComputerChoice() {
     return choices[randomChoice];
 }
 
+// Decide winner function
+
+function DecideWinner(userChoice, computerChoice) {
+    const result = document.getElementById("result");
+
+    if(userChoice === computerChoice) {
+        result.innerHTML = "Both selected " + userChoice + "It is a tie!"
+    }else if (userChoice === "rock") {
+        if (computerChoice === "scissor") {
+            result.innerHTML= "rock smashes the scissor"
+        }
+    }
+}
