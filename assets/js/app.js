@@ -14,3 +14,12 @@ for(let i = 0; i < imageTags.length; i++){
         DecideWinner(user, computer);
     }
 }
+
+// Computer Choice function
+
+function GetComputerChoice() {
+    const choices = ['rock', 'paper', 'scissor'];
+    const randomChoice = Math.floor(Math.random()*3);
+    return choices[randomChoice];
+}
+
