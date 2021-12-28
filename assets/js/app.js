@@ -43,7 +43,7 @@ function DecideWinner(userChoice, computerChoice){
             result.innerHTML = 'Paper covers the rock. You won';
             userWin++;
         }else{
-            result.innerHTML = 'Scissor cuts paper. You lose';
+            result.innerHTML = 'Scissor cuts paper. You lost';
             computerWin++;
         }
     }else if(userChoice === 'scissor'){
