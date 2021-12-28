@@ -38,5 +38,9 @@ function DecideWinner(userChoice, computerChoice) {
             result.innerHTML = "Paper covers the rock. You lose";
             computerWin++
         }
+    }else if (userChoice === "paper"){
+        if(computerChoice ==="rock") {
+            result.innerHTML ="paper covers the rock. You Win"
+        }
     }
 }
