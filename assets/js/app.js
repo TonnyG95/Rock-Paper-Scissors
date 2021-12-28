@@ -29,7 +29,7 @@ function DecideWinner(userChoice, computerChoice){
     const result = document.getElementById('result');
 
     if(userChoice === computerChoice){
-        result.innerHTML = 'You both chose ' + userChoice + ".it's a draw!";
+        result.innerHTML = 'You both chose ' + userChoice + " so it's a draw!";
     }else if(userChoice === 'rock'){
         if(computerChoice === 'scissor'){
             result.innerHTML = 'Rock smashes the scissor. You won';
