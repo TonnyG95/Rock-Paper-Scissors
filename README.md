@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-![Screenshot](https://bdm.network/wp-content/uploads/2021/12/Rock-Paper-Scissors-Screenshot.png)
+![Screnshot](https://user-images.githubusercontent.com/47572512/152343729-516a0681-8eaa-4e3e-916b-1c53fd026c29.png)
 
 ## How is created
 
@@ -39,23 +39,23 @@ The font is: Roboto
 
 ### HTML testing
 
-![HTML](https://bdm.network/wp-content/uploads/2021/12/Rock-Paper-Scissors-html-verification.png)
+![Rock-Paper-Scissors-html-verification](https://user-images.githubusercontent.com/47572512/152343797-8235d0eb-8857-493a-ad20-042868cfce22.png)
 
 There were no errors found on HTML verification.
 
 ### CSS testing
 
-![CSS](https://bdm.network/wp-content/uploads/2021/12/Rock-Paper-Scissors-css-verification.png)
+![Rock-Paper-Scissors-css-verification](https://user-images.githubusercontent.com/47572512/152343838-b42d6be0-4451-41ac-a05e-94197a72c17a.png)
 
 There were no errors found on CSS verification.
 
 ### There was no errors detected by the chrome dev tool on JS 
 
-![JS](https://bdm.network/wp-content/uploads/2021/12/Rock-Paper-Scissors-dev-tools.png)
+![Rock-Paper-Scissors-dev-tools](https://user-images.githubusercontent.com/47572512/152343913-efc51203-5edf-4590-ba1c-afa9cc76bb41.png)
 
 ### Performance and UX
 
-![JS](https://bdm.network/wp-content/uploads/2021/12/web.dev-measure-Rock-Paper-Scissors.png)
+![web dev-measure-Rock-Paper-Scissors](https://user-images.githubusercontent.com/47572512/152343962-130fda66-3c1c-4c41-ab81-b8d1cc02467c.png)
 
 ## Credits
 
