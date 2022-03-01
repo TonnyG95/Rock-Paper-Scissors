@@ -37,10 +37,10 @@ The challenge was to build Rock, Paper, Scissors game using HTML, CSS and Javasc
 
 ### Developer goals
 
-- A project that is interesting and requires some thought to code.
-- A site that visitors can navigate without much thought and easily.
-- A game that is fun and looks clean and crisp.
-- A game meant to feel neat and mature as to not feel infantile.
+- A project that is interesting and requires some thought to code
+- A site that visitors can navigate without much thought and easily
+- A game that is fun and looks clean and crisp
+- A game meant to feel neat and mature as to not feel infantile
 
 ### Design Choices
 
@@ -53,7 +53,7 @@ The challenge was to build Rock, Paper, Scissors game using HTML, CSS and Javasc
 The website is designed with Figma. [project can be found here](https://www.figma.com/file/mP2YD8xOhmAijP9crAWGI2/rock-paper-scissors) design was based on a dark theme in the mind so that the players do not strain their eyes when visiting the website. 
 
 - The background colour is #090915 
-- Icon colour: #FFFF
+- Icon colour: #FFFFFF
 - The font is: Roboto
 
 ### Fonts
@@ -122,11 +122,11 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 ## Credits
 
-Icon used on website are from [Iconfinder](https://www.iconfinder.com/)\
-HTML Testing is done with [W3c HTML Validator](https://validator.w3.org/)\
-CSS Testing is done with [W3c HTML Validator](https://jigsaw.w3.org/css-validator/)\
-Performance and UX testing is done with [web.dev](https://web.dev/)\
-Responsive design testing and screenshot of the page is done with [Am I Responsive](http://ami.responsivedesign.is/)
+Icon used on website are from [Iconfinder](https://www.iconfinder.com/).\
+HTML Testing is done with [W3c HTML Validator](https://validator.w3.org/).\
+CSS Testing is done with [W3c HTML Validator](https://jigsaw.w3.org/css-validator/).\
+Performance and UX testing is done with [web.dev](https://web.dev/).\
+Responsive design testing and screenshot of the page is done with [Am I Responsive](http://ami.responsivedesign.is/).
 
 ## Technics used 
 
