@@ -29,11 +29,11 @@ The challenge was to build Rock, Paper, Scissors game using HTML, CSS and Javasc
 
 ### User goals
 
-- As a user i want to be able to qucikly jump into game and start playing
-- As a user i want to be able to chouse option
-- As a user i want to have simple interface that will lead me to my choice 
-- As a user i want to have clear and stright to point information how won
-- As a user i want to be able to track my score 
+- As a user, I want to be able to quickly jump into the game and start playing
+- As a user, I want to be able to choose the option
+- As a user, I want to have a simple interface that will lead me to my choice 
+- As a user, I want to have clear and straight to point information on who won
+- As a user, I want to be able to track my score 
 
 ### Developer goals
 
@@ -44,26 +44,26 @@ The challenge was to build Rock, Paper, Scissors game using HTML, CSS and Javasc
 
 ### Design Choices
 
-- The site itself needed to be easy to navigate, provide information users would find beneficial, and displays said information in a way that is visually appealing.
-- The colour choices were made to have dark background with white icon so that users don/t have to strain eays while visiting website.
-- Website is completely desing in Figma since that is my prefred UI desing tool.
+- The site itself needed to be easy to navigate, provide information users would find beneficial, and display said information in a way that is visually appealing.
+- The colour choices were made to have a dark background with a white icon so that users don't have to strain eyes while visiting the website.
+- Website is completely designed in Figma since that is my preferred UI design tool.
 
 ### UI 
 
-The website is designed with Figma [project can be found here](https://www.figma.com/file/mP2YD8xOhmAijP9crAWGI2/rock-paper-scissors) design was based on a dark theme in the mind so that the players do not strain their eyes when visiting the website. 
+The website is designed with Figma. [project can be found here](https://www.figma.com/file/mP2YD8xOhmAijP9crAWGI2/rock-paper-scissors) design was based on a dark theme in the mind so that the players do not strain their eyes when visiting the website. 
 
-The background colour is #090915\
-Icon colors: #FFFF
-The font is: Roboto
+- The background colour is #090915 
+- Icon colour: #FFFF
+- The font is: Roboto
 
 ### Fonts
 
 - The goal was to have a crisp and modern feel with a bit of punch.
-- Font used in this website is Roboto and it was imporeted with help of Google Fonts.
+- Font used in this website is Roboto and it was imported with help of Google Fonts.
 
-### Icons and Colors 
+### Icons and Colours 
 
-Icons used for Rock. Paper and scissors are from [Iconfinder](https://www.iconfinder.com/) and colors for this project is #090915 and #FFFFFF since those 2 colors are perfect contrast and my goal was to have nice and apiling desing. 
+Icons used for Rock. Paper and scissors are from [Iconfinder](https://www.iconfinder.com/) and the colours for this project is #090915 and #FFFFFF since those 2 colours are perfect contrast and my goal was to have a nice and appealing design. 
 
 ![Screenshot_1](https://user-images.githubusercontent.com/47572512/156226740-cd86be8f-f3c0-4a5b-b428-02f856f07de9.png)
 
@@ -77,16 +77,16 @@ Icons used for Rock. Paper and scissors are from [Iconfinder](https://www.iconfi
 
 - At the top of the page, you can see the game name, with nice font and good contrast to the background 
 
-- When user hover on icons pointer changes and icons get nice darker shade of the color
+- When the user hovers on icons pointer changes and icons get a nice darker shade of the colour
 
 ### Game result 
 
-- When a user clicks on the icon, and the computer returns his choice, the result will be shown to user.
-- Game will save curent score under icons  
+- When a user clicks on the icon, and the computer returns his choice, the result will be shown to the user.
+- Game will save current score under icons  
 
 ## Structure
 
-The website is one fully responsive page. There are 3 buttons with pictures for the player to choose an option. Website is made to be fully responsive with help of CSS Flexbox. No frameworks are used for this project. 
+The website is one fully responsive page. There are 3 buttons with pictures for the player to choose an option. The website is made to be fully responsive with help of CSS Flexbox. No frameworks are used for this project. 
 
 ## Testing
 
@@ -112,7 +112,7 @@ There were no errors found on CSS verification.
 
 ![web dev-measure-Rock-Paper-Scissors](https://user-images.githubusercontent.com/47572512/152343962-130fda66-3c1c-4c41-ab81-b8d1cc02467c.png)
 
-## Depolyment
+## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab
@@ -125,12 +125,11 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 Icon used on website are from [Iconfinder](https://www.iconfinder.com/)\
 HTML Testing is done with [W3c HTML Validator](https://validator.w3.org/)\
 CSS Testing is done with [W3c HTML Validator](https://jigsaw.w3.org/css-validator/)\
-Preformance and UX testing is done with [web.dev](https://web.dev/)\
-Responsive desing testing and screenshot of the page is done with [Am I Responsive](http://ami.responsivedesign.is/)
+Performance and UX testing is done with [web.dev](https://web.dev/)\
+Responsive design testing and screenshot of the page is done with [Am I Responsive](http://ami.responsivedesign.is/)
 
 ## Technics used 
 
 - HTML
 - CSS
 - JavaScript
-
