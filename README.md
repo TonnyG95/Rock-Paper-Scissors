@@ -8,7 +8,7 @@ Rock Paper Scissors is a zero-sum game usually played by two people using their 
 
 ## How this website is created
 
-This website is created in plain HTML5, CSS and JavaScript. No frameworks are used for this project.
+This website is created in plain HTML, CSS and JavaScript. No frameworks are used for this project.
 
 The deployed website can be found [Here](https://tonnyg95.github.io/Rock-Paper-Scissors-/)
 
@@ -50,7 +50,7 @@ The challenge was to build Rock, Paper, Scissors game using HTML, CSS and Javasc
 
 ### UI 
 
-The website is designed with Figma. [project can be found here](https://www.figma.com/file/mP2YD8xOhmAijP9crAWGI2/rock-paper-scissors) design was based on a dark theme in the mind so that the players do not strain their eyes when visiting the website. 
+The website is designed with Figma. [project can be found here](https://www.figma.com/file/mP2YD8xOhmAijP9crAWGI2/rock-paper-scissors) The design goal was to create a dark themed website so that the players do not strain their eyes when visiting the website. 
 
 - The background colour is #090915 
 - Icon colour: #FFFFFF
@@ -63,7 +63,7 @@ The website is designed with Figma. [project can be found here](https://www.figm
 
 ### Icons and Colours 
 
-Icons used for Rock. Paper and scissors are from [Iconfinder](https://www.iconfinder.com/) and the colours for this project is #090915 and #FFFFFF since those 2 colours are perfect contrast and my goal was to have a nice and appealing design. 
+Icons used for Rock, Paper and scissors are from [Iconfinder](https://www.iconfinder.com/) and the colours for this project is #090915 and #FFFFFF since those 2 colours are perfect contrast and my goal was to have a nice and appealing design. 
 
 ![Screenshot_1](https://user-images.githubusercontent.com/47572512/156226740-cd86be8f-f3c0-4a5b-b428-02f856f07de9.png)
 
