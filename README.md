@@ -143,3 +143,13 @@ Responsive design testing and screenshot of the page is done with [Am I Responsi
 - HTML
 - CSS
 - JavaScript
+
+## Acknowledgements
+
+- Special thanks to my mentor Antonija for advice and feedback.
+- The Code Institute Slack community for their technical support.
+- Code Institute for prepering everything for us with there template that can be fund [here](https://github.com/Code-Institute-Org/gitpod-full-template).
+
+## Disclaimer 
+
+This website is for educational purposes only, and credits for all pictures/icons used in this project go to their respective owners. 
