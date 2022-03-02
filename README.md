@@ -94,13 +94,13 @@ The website is one fully responsive page. There are 3 buttons with pictures for 
 
 ![Rock-Paper-Scissors-html-verification](https://user-images.githubusercontent.com/47572512/152343797-8235d0eb-8857-493a-ad20-042868cfce22.png)
 
-There were no errors found on HTML verification.
+There were no errors found on HTML validation.
 
 ### CSS Validation
 
 ![Rock-Paper-Scissors-css-verification](https://user-images.githubusercontent.com/47572512/152343838-b42d6be0-4451-41ac-a05e-94197a72c17a.png)
 
-There were no errors found on CSS verification.
+There were no errors found on CSS validation.
 
 ### There was no errors detected by the chrome dev tool on JS 
 
