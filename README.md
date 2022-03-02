@@ -119,15 +119,15 @@ There were no errors found on CSS validation.
  
 The site interaction was tested by clicking on the option and waiting for a computer response. Checking every possible solution
 
-- When my selected option was "Rock", and the computer option was "Rock." it was a draw
-- When my selected option was "Rock", and the computer option was "Paper." I lost
-- When my selected option was "Rock", and the computer option was "Scissors", I won
-- When my selected option was "Paper" and the computer option was "Paper", it was a draw
-- When my selected option was "Paper" and the computer option was "Scissors", I lost
-- When my selected option was "Paper" and the computer option was "Rock", I won
-- When my selected option was "Scissors" and the computer option was "Scissors", it was a draw
-- When my selected option was "Scissors" and the computer option was "Rock", I lost
-- When my selected option was "Scissors" and the computer option was "Paper", I won
+- When my choice was "Rock", and the computer choice was "Rock", it was a draw
+- When my choice was "Rock", and the computer choice was "Paper", I lost
+- When my choice was "Rock", and the computer choice was "Scissors", I won
+- When my choice was "Paper", and the computer choice was "Paper", it was a draw
+- When my choice was "Paper", and the computer choice was "Scissors", I lost
+- When my choice was "Paper", and the computer choice was "Rock", I won
+- When my choice was "Scissors", and the computer choice was "Scissors", it was a draw
+- When my choice was "Scissors", and the computer choice was "Rock", I lost
+- When my choice was "Scissors", and the computer choice was "Paper", I won
 - All the website message responses on choices were correct and accurate
 
 
