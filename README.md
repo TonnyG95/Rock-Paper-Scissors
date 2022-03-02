@@ -88,15 +88,15 @@ Icons used for Rock. Paper and scissors are from [Iconfinder](https://www.iconfi
 
 The website is one fully responsive page. There are 3 buttons with pictures for the player to choose an option. The website is made to be fully responsive with help of CSS Flexbox. No frameworks are used for this project. 
 
-## Testing
+## Validation
 
-### HTML testing
+### HTML Validation
 
 ![Rock-Paper-Scissors-html-verification](https://user-images.githubusercontent.com/47572512/152343797-8235d0eb-8857-493a-ad20-042868cfce22.png)
 
 There were no errors found on HTML verification.
 
-### CSS testing
+### CSS Validation
 
 ![Rock-Paper-Scissors-css-verification](https://user-images.githubusercontent.com/47572512/152343838-b42d6be0-4451-41ac-a05e-94197a72c17a.png)
 
@@ -107,10 +107,20 @@ There were no errors found on CSS verification.
 ![Rock-Paper-Scissors-dev-tools](https://user-images.githubusercontent.com/47572512/152343913-efc51203-5edf-4590-ba1c-afa9cc76bb41.png)
 
 
+### Manual Testing
+
+### Compatibility Testing
+- The site was tested on Chrome, Edge, Firefox and Safari browsers to check compatibility across browsers
+- The site was tested on 1080P, 1440P and 4K resolutions natively
+- The site was tested natively on Samsung galaxy s20 and Samsung Galaxy j3
+- The site was tested through emulation on all devices supported by Google Dev Tool
+
 
 ### Performance and UX
 
 ![web dev-measure-Rock-Paper-Scissors](https://user-images.githubusercontent.com/47572512/152343962-130fda66-3c1c-4c41-ab81-b8d1cc02467c.png)
+
+Preformance, UX and SEO are tested with web.dev 
 
 ## Deployment
 
