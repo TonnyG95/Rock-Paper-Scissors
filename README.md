@@ -50,7 +50,7 @@ The challenge was to build Rock, Paper, Scissors game using HTML, CSS and Javasc
 
 ### UI 
 
-The website is designed with Figma. [project can be found here](https://www.figma.com/file/mP2YD8xOhmAijP9crAWGI2/rock-paper-scissors). The design goal was to create a dark themed website so that the players do not strain their eyes when visiting the website. 
+The website is designed with Figma. [project can be found here](https://www.figma.com/file/mP2YD8xOhmAijP9crAWGI2/rock-paper-scissors). The design goal was to create a dark themed website so that the players/visitors do not strain their eyes when visiting the website, with big icons and good contrast for icons/options that will help users interact with the site easily and indicate when the icon is hovered or clicked. 
 
 - The background colour is #090915 
 - Icon colour: #FFFFFF
@@ -114,6 +114,21 @@ There were no errors found on CSS validation.
 - The site was tested on 1080P, 1440P and 4K resolutions natively
 - The site was tested natively on Samsung galaxy s20 and Samsung Galaxy j3
 - The site was tested through emulation on all devices supported by Google Dev Tool
+
+### Interaction testing
+ 
+The site interaction was tested by clicking on the option and waiting for a computer response. Checking every possible solution
+
+- When my selected option was "Rock", and the computer option was "Rock." it was a draw
+- When my selected option was "Rock", and the computer option was "Paper." I lost
+- When my selected option was "Rock", and the computer option was "Scissors", I won
+- When my selected option was "Paper" and the computer option was "Paper", it was a draw
+- When my selected option was "Paper" and the computer option was "Scissors", I lost
+- When my selected option was "Paper" and the computer option was "Rock", I won
+- When my selected option was "Scissors" and the computer option was "Scissors", it was a draw
+- When my selected option was "Scissors" and the computer option was "Rock", I lost
+- When my selected option was "Scissors" and the computer option was "Paper", I won
+- All the website message responses on choices were correct and accurate
 
 
 ### Performance and UX
