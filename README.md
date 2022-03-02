@@ -77,11 +77,11 @@ Icons used for Rock, Paper and scissors are from [Iconfinder](https://www.iconfi
 
 - At the top of the page, you can see the game name, with nice font and good contrast to the background 
 
-- When the user hovers on icons pointer changes and icons get a nice darker shade of the colour
+- When the user hovers on icons, pointer changes, and icons get a lovely darker shade of the white
 
 ### Game result 
 
-- When a user clicks on the icon, and the computer returns his choice, the result will be shown to the user.
+- When a user clicks on the icon, and the computer returns his choice, the result will be shown to the user
 - Game will save current score under icons  
 
 ## Structure
