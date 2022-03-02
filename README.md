@@ -148,7 +148,7 @@ Responsive design testing and screenshot of the page is done with [Am I Responsi
 
 - Special thanks to my mentor Antonija for advice and feedback.
 - The Code Institute Slack community for their technical support.
-- Code Institute for prepering everything for us with there template that can be fund [here](https://github.com/Code-Institute-Org/gitpod-full-template).
+- Code Institute for preparing everything for us with their template that can be funded [here](https://github.com/Code-Institute-Org/gitpod-full-template).
 
 ## Disclaimer 
 
