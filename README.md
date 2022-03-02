@@ -50,7 +50,7 @@ The challenge was to build Rock, Paper, Scissors game using HTML, CSS and Javasc
 
 ### UI 
 
-The website is designed with Figma. [project can be found here](https://www.figma.com/file/mP2YD8xOhmAijP9crAWGI2/rock-paper-scissors) The design goal was to create a dark themed website so that the players do not strain their eyes when visiting the website. 
+The website is designed with Figma. [project can be found here].(https://www.figma.com/file/mP2YD8xOhmAijP9crAWGI2/rock-paper-scissors) The design goal was to create a dark themed website so that the players do not strain their eyes when visiting the website. 
 
 - The background colour is #090915 
 - Icon colour: #FFFFFF
