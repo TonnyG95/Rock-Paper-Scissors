@@ -10,7 +10,7 @@ Rock Paper Scissors is a zero-sum game usually played by two people using their 
 
 This website is created in plain HTML, CSS and JavaScript. No frameworks are used for this project.
 
-The deployed website can be found [Here](https://tonnyg95.github.io/Rock-Paper-Scissors-/)
+The deployed website can be found [Here](https://tonnyg95.github.io/Rock-Paper-Scissors/)
 
 
 ### What are the rules of RPS?
